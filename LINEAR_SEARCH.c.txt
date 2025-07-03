@@ -1,2 +1,2 @@
 #include<stdio.h>
-int linearsearch(){
+int linearsearch(int a[]){
